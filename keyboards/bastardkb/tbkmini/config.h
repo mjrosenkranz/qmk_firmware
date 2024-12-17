@@ -17,7 +17,6 @@
  */
 
 #pragma once
-#include "config_common.h"
 #include "keymaps/mjr/config.h"
 
 #define MATRIX_ROWS 8

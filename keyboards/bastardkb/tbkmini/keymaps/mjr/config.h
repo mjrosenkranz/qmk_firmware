@@ -25,8 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Select hand configuration */
 // make the tap time longer
 #define TAPPING_TERM 200
-// make you press the mod key for longer
-#define IGNORE_MOD_TAP_INTERRUPT
 
 // Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
 #define TAPPING_FORCE_HOLD
